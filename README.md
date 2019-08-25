@@ -11,7 +11,7 @@ This project represent text game Tic Tac Toe with three levels of difficulty:
   
  • The **"hard"** level difficulty use _Minimax Algorithm_ . This level can see two moves ahead, three moves ahead and so on. Basically, it can see all possible outcomes till the end of the game and choose the best of them considering his opponent also would play perfectly.
  
- You can play with computer or another human. You can also see how to play computer with itself choosing different levels of difficulty and combine them 
+ You can play with computer or another human. You can also see how computer play with itself choosing different levels of difficulty and combine them 
  
  ### Start menu
  
@@ -21,13 +21,15 @@ This project represent text game Tic Tac Toe with three levels of difficulty:
     
     • **user** - to play as a human and **"easy/medium/hard"** to play as AI.
         
+```
+   Input command: start user hard
+```
     
-     Input command: start user hard
- 
  2. The command **"exit"** terminate the program.
  
-      
-     Input command: exit
+``` 
+   Input command: exit
+ ```
         
 ### Human move        
 
